@@ -1,0 +1,12 @@
+---
+source: src/lib.rs
+expression: sr
+---
+SerRope {
+    chunks: [
+        "hello thingstuffyesnohellothingstuffyesnohello thingstuffyesnohellothingstuffyesnohello thingstuffyesnohellothingstuffyesnohello thingstuffyesnohellothingstuffyesnohello thingstuffyesnohellothingstuffyesnohello thingstuffyesnohellothingstuffyesnohello thingstuffyesnohellothingstuffyesnohello thingstuffyesnohellothingstuffyesnohello thingstuffyesnohellothingstuffyesnohello thingstuffyesnohellothingstuffyesno",
+    ],
+    indicies: [
+        0,
+    ],
+}
